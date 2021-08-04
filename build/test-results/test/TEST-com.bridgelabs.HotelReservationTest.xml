@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bridgelabs.HotelReservationTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-03T08:47:50" hostname="DESKTOP-IB61PHE" time="0.309">
+  <properties/>
+  <testcase name="shouldPrintWelcomeMessage" classname="com.bridgelabs.HotelReservationTest" time="0.309"/>
+  <system-out><![CDATA[Welcome to Hotel reservation problem
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
